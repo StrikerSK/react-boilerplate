@@ -9,6 +9,7 @@ module.exports = merge(common, {
         contentBase: path.join(__dirname, 'public'),
         historyApiFallback: true,
         publicPath: '/dist/',
+        compress: true,
         hot: true
     }
 });
