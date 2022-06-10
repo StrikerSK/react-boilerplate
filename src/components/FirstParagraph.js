@@ -3,7 +3,7 @@ import React from 'react'
 export default () => {
     return (
         <div className="main-div">
-            <p>Hey, you did it!</p>
+            <p className="firstParagraph">Hey, you did it!</p>
         </div>
     )
 }

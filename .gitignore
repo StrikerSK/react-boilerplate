@@ -1,6 +1,7 @@
 node_modules
 .idea
 public/dist/
+src/test/__snapshots__
 
 package-lock.json
 yarn.lock
